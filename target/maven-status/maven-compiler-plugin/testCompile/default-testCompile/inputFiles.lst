@@ -1,0 +1,9 @@
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidUnmodifiableListTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidSuperClassCheckTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidAnnotationCheckTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/MyCustomSubscriptionRuleTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/MyJavaRulesDefinitionTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/MyFirstCustomCheckTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/SecurityAnnotationMandatoryCheckTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidMethodDeclarationCheckTest.java
+/home/raider/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidBrandInMethodNamesCheckTest.java

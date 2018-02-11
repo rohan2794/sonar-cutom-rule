@@ -1,0 +1,13 @@
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidSuperClassRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidMethodDeclarationRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/MyJavaRulesDefinition.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/SecurityAnnotationMandatoryRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/RulesList.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/MyCustomSubscriptionRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidBrandInMethodNamesRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/MyJavaRulesPlugin.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/MyFirstCustomCheck.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidUnmodifiableListRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/MyJavaFileCheckRegistrar.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidAnnotationRule.java
+/home/raider/java-custom-rules/src/main/java/org/sonar/samples/java/checks/PrinterVisitor.java
